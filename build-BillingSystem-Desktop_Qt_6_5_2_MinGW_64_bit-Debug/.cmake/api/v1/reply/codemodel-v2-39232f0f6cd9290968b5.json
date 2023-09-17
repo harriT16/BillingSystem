@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6ceadc6444b253cdbdb7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "BillingSystem",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BillingSystem::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BillingSystem-Debug-77020073a2d71949d61c.json",
+					"name" : "BillingSystem",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BillingSystem_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BillingSystem_autogen-Debug-03c4975f318f4f0109db.json",
+					"name" : "BillingSystem_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BillingSystem_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BillingSystem_autogen_timestamp_deps-Debug-05c77b585ae66e0fbd4f.json",
+					"name" : "BillingSystem_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/project/BillingSystem/build-BillingSystem-Desktop_Qt_6_5_2_MinGW_64_bit-Debug",
+		"source" : "D:/project/BillingSystem/BillingSystem"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
